@@ -14,15 +14,8 @@ Este pequeño proyecto demuestra lo escalable que puede ser a la hora de hacer m
 
  NOTA: En el archivo que lo llamé "slider.js" se ecuentran los 3 javaScript que hacen que funcione el CARRUSEL, BOTON DE VOLVER ARRIBA y EL MENú FIJADO AL HACER SCROLL.     
 
-## Tabla de Contenidos
-- [Demo](#demo)
-- [Características](#características)
-- [Tecologías utilizadas](#tecologías-utilizadas)
-- [Uso](#uso)
-
-
-## Demo
-Una demo en vivo del proyecto está disponible [aquí](#).
+## Demo rápida en una imagen del proyecto
+[muestra-web.png](https://postimg.cc/WDpg6HQF)
 
 ## Características
 - Diseño responsivo (el icono de ubicación lo diseñé solo con CSS )
