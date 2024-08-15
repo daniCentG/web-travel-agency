@@ -16,6 +16,7 @@ Este pequeño proyecto demuestra lo escalable que puede ser a la hora de hacer m
 
 ## Demo rápida en una imagen del proyecto
 
+![muestra-web](https://github.com/user-attachments/assets/6864017a-06e2-4dde-969a-12f6c95a51bf)
 
 ## Características
 - Diseño responsivo (el icono de ubicación lo diseñé solo con CSS )
